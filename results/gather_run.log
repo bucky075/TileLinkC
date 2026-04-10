@@ -1,0 +1,3 @@
+---- GATHER DONE ----
+Packets Injected = 48
+- tb/tb_mesh_gather_stress.sv:94: Verilog $finish

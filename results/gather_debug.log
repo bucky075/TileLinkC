@@ -1,0 +1,5 @@
+- Verilated::debug attempted, but compiled without VL_DEBUG, so messages suppressed.
+- Suggest remake using 'make ... CPPFLAGS=-DVL_DEBUG'
+%Error: tb/tb_mesh_gather_stress.sv:4: Verilated model didn't converge
+- See DIDNOTCONVERGE in the Verilator manual
+Aborting...
