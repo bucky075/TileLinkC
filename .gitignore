@@ -2,3 +2,4 @@ obj_dir/
 build_*
 *.vcd
 waves/
+*.gch

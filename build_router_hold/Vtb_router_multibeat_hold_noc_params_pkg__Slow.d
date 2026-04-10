@@ -1,3 +1,0 @@
-Vtb_router_multibeat_hold_noc_params_pkg__Slow.o: \
- Vtb_router_multibeat_hold_noc_params_pkg__Slow.cpp \
- Vtb_router_multibeat_hold__pch.h
